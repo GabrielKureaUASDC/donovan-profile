@@ -1,0 +1,94 @@
+img {
+  width: 150px;
+  border: 15px dotted white;
+}
+
+body {
+  background-color: #089CB7;
+}
+
+h2 {
+  font-family: 'Orbitron', sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Fascinate Inline', sans-serif;
+  border: 5px solid black;
+  font-size: 45px;
+  display: block;
+  text-align: center;
+}
+
+.MyPage {
+  margin: 0px 400px;
+}
+
+h3:hover {
+  color: blue;
+}
+
+a:hover {
+  color: red;
+}
+
+p {
+  font-family: 'Lexend Deca', sans-serif;
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Lexend Deca', sans-serif;
+  color: white;
+  text-align: center;
+}
+
+li {
+  font-family: 'Lexend Deca', sans-serif;
+  text-align: center;
+}
+
+h1:hover {
+  color: red;
+  border: 5px solid red;
+  text-align: center;
+}
+
+img {
+  width: 400px;
+  transform: rotate(90deg);
+}
+
+ul {
+  text-align: center;
+  list-style-position: inside;
+}
+
+div {
+  text-align: center;
+  margin: 60px;
+}
+
+h2 {
+  font-size: 35px;
+}
+
+h2:hover {
+  color: blue;
+}
+
+.good {
+  font-size: 10px;
+}
+.books {
+transform: rotate(0deg);
+margin: 0px 650px;
+width: 200px;
+border: 15px dotted black;
+}
+.queen {
+transform: rotate(0deg);
+margin: 0px 520px;
+width: 400px;
+border: 15px dotted blue;
+}
